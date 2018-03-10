@@ -91,6 +91,9 @@ input[type="password"]:focus {
     width: 500px;
     height: 323px;
   }
+  .form_header {
+    font-size: 24px;
+  }
   input[type="text"],
   input[type="password"] {
     width: 430px;
@@ -120,6 +123,9 @@ input[type="password"]:focus {
     width: 300px;
     height: 297px;
     background-color: #eff0f2;
+  }
+  .form_header {
+    font-size: 20px;
   }
   input[type="text"],
   input[type="password"] {
